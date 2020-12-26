@@ -1,0 +1,5 @@
+第一次获取项目 : git clone
+之后 : git pull
+新文件添加(修改已有文件,不需要add)  git add
+提交文件到本地仓库 git commit -m""(-m 添加描述)
+推送到远端仓库 git push
